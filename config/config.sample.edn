@@ -1,0 +1,4 @@
+{
+ :last-fm {:key ""}
+ :telegram {:key ""}
+ :spotify {:client-id "" :client-secret ""}}
